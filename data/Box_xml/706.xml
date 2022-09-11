@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic</folder>
+	<filename>706.jpg</filename>
+	<path>D:\Abanden\experiment\box\xml\pic\706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>724</xmin>
+			<ymin>279</ymin>
+			<xmax>753</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

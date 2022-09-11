@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic</folder>
+	<filename>769.jpg</filename>
+	<path>D:\Abanden\experiment\shuihu\xml\pic\769.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1148</xmin>
+			<ymin>624</ymin>
+			<xmax>1160</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>
